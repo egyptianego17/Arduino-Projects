@@ -14,17 +14,25 @@ Speed control: The controller's triggers and buttons allow for adjusting the spe
 To use the control system, follow these steps:
 
 1-Connect the PS4 controller to the computer.
+
 2-Ensure the Arduino board is connected to the computer via USB.
+
 3-Upload the Arduino code provided in the repository to the Arduino board.
+
 4-Run the Python code provided to establish the serial connection between the computer and the Arduino board.
+
 5-Use the PS4 controller to control the boat's movement, camera direction, and firing of the water guns.
 
 # Requirements
 
 1-PS4 controller
+
 2-Arduino board
+
 3-Python 3.x
+
 4-Pygame library
+
 5-Serial library
 
 # Troubleshooting
