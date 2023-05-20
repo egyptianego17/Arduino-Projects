@@ -5,8 +5,11 @@ This repository contains the code and documentation for a fire fighting boat con
 # Features
 
 Control the boat's movement: The PS4 controller's joysticks allow for precise control of the boat's movement in all directions.
+
 Control the camera direction: The controller's buttons enable the user to adjust the camera's direction to enhance situational awareness.
+
 Fire water guns: The system includes the functionality to fire water guns mounted on the boat using the controller's buttons.
+
 Speed control: The controller's triggers and buttons allow for adjusting the speed of the boat and water guns.
 
 # Getting Started
