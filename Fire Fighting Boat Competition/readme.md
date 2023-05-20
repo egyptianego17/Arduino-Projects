@@ -40,7 +40,9 @@ To use the control system, follow these steps:
 If you encounter any issues with the system, please follow these steps:
 
 1-Check the connections between the PS4 controller, Arduino board, and computer.
+
 2-Ensure that the Arduino code is uploaded correctly to the board.
+
 3-Verify that the Python code is running without any errors and establishing a serial connection.
 
 # Contributing
